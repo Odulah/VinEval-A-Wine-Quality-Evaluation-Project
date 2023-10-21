@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-ML-Project-with-DVC-MLflow
+https://github.com/Odulah/Wine-Quality-End-to-End-project.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
